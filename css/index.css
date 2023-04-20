@@ -158,7 +158,7 @@ input {
 }
 
 #page-list #btn-reset {
-  background-color: #bfe70c !important;
+  background-color: #0924bd !important;
   color: white !important;
   font-weight: normal !important;
   border-radius: 0 !important;
@@ -240,13 +240,13 @@ input {
 .list-date {
   text-align: center;
   height: 25px;
-  background-color: #dcf312;
+  background-color: #0719b9;
   color: white;
   line-height: 25px;
 }
 
 #page-detail #expense #message {
-  border: 1px solid #dfee0a;
+  border: 1px solid #091bc2;
   border-radius: 5px;
   padding: 10px;
   -webkit-box-sizing: border-box;
